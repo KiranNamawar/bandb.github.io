@@ -1,0 +1,36 @@
+html {
+    font-size: 10px;
+    font-family: "Alkatra", cursive;
+    background-color: #bfbfbf;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: "Lobster", cursive;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    width: auto;
+    margin: 30px 30px;
+    background-color: #94908a;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+    text-shadow: 4px 5px 3px #dae9a4;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+  }
+  
